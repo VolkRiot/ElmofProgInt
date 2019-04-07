@@ -20,3 +20,5 @@ function getH(orgArr) {
     }
   }
 }
+
+getH(start);
